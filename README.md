@@ -1,5 +1,7 @@
 # Furniture Object Detector & Recommender using Detectron2 & VGG16
 
+
+
 This repository contains all the code to complete iDECOR, a Furniture Recommender that help users who have recently moved to explore IKEA products at ease.
 
 <img src="https://github.com/sophiachann/ObjectDetectionProject-FurnitureRecommender/blob/main/img/intro.png" width="800"/>
