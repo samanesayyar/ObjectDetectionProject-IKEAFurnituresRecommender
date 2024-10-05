@@ -8,6 +8,7 @@ This repository contains all the code to complete iDECOR, a Furniture Recommende
 
 <img src="https://github.com/sophiachann/ObjectDetectionProject-FurnitureRecommender/blob/main/img/intro.png" width="800"/>
 
+
 After uploading a room scene image, IDECOR returns users with similar-styled furnitures from IKEA product catalog.
 
 [LET'S SEE HOW IT WORKS!](https://www.youtube.com/watch?v=5ADEoz7ZIYw)
